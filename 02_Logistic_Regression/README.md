@@ -64,7 +64,7 @@ The model achieved an accuracy of approximately **83%** on the dataset.
 | With binary `sex` encoding | Accuracy improved |
 
 **Insight**:  
-The model learned that **female passengers** had a higher survival rate, improving accuracy when the `Sex` column was properly encoded. This mirrors historical data where women were prioritized during evacuation.
+The model learned that **female passengers** had a higher survival rate, improving accuracy when the `Sex` column was properly encoded.
 
 ---
 
